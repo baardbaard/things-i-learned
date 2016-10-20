@@ -17,8 +17,8 @@ title: Things I Learned
 email: stef@baardbaard.nl
 description: > # this means to ignore newlines until "baseurl:"
     Daily notes on things I've learned. Don't expect anything crazy and you won't be dissapointed.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/things-i-learned" # the subpath of your site, e.g. /blog
+url: "http://baardbaard.nl" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: baardbaard
 github_username:  baardbaard
 
